@@ -1,0 +1,8 @@
+Frodo
+76
+3.6
+Student
+Gandalf
+76
+5.0
+Instructor
