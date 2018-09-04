@@ -1,0 +1,11 @@
+Your current location is Sea.
+The West is Town, across the sea to the East is Island.
+There is no way to other directions
+________________________________________________________
+            
+            ( Mountain )
+                  |
+( Forest ) -- ( Town ) -- ( Sea ) -- ( Island )
+                  |      YOU ARE HERE
+            ( Desert )                       
+________________________________________________________              

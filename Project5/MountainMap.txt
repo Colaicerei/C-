@@ -1,0 +1,10 @@
+Your current location is Mountain.
+The South is Town, there is no way to other directions
+________________________________________________________
+            
+            ( Mountain YOU ARE HERE )
+                  |
+( Forest ) -- ( Town ) -- ( Sea ) -- ( Island )
+                  |  
+             ( Desert )                        
+________________________________________________________              
